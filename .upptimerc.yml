@@ -20,7 +20,7 @@ status-website:
   name: Transit Tracker status
   navbar:
     - title: Status
-      href: /
+      href: https://transittracker.github.io/upptime/
     - title: Back to the app
       href: https://www.transittracker.ca
 
