@@ -16,11 +16,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/TransitTracker/frontend/refs/heads/main/static/img/logo.svg
-  themeUrl: /theme.css
+  themeUrl: /upptime/theme.css
   name: Transit Tracker status
   navbar:
-    - title: Status
-      href: https://transittracker.github.io/upptime/
     - title: Back to the app
       href: https://www.transittracker.ca
 
