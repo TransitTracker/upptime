@@ -40,19 +40,19 @@
     "url": "https://vin.transittracker.ca",
     "icon": "https://icons.duckduckgo.com/ip3/vin.transittracker.ca.ico",
     "slug": "transit-tracker-vin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 499,
-    "timeDay": 660,
-    "timeWeek": 705,
-    "timeMonth": 555,
+    "timeDay": 598,
+    "timeWeek": 679,
+    "timeMonth": 553,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-10-04": 0
+      "2025-10-04": 26
     }
   }
 ]
